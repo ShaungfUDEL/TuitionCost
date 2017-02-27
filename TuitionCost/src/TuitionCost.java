@@ -2,6 +2,7 @@ import java.lang.Math;
 
 public class TuitionCost 
 {
+	//instance variables
 	private double initTuitCost;
 	private double interest;
 	

@@ -4,6 +4,7 @@ public class Test {
 
 	public static void main(String[] args) 
 	{
+		//test code
 		Scanner keyboard = new Scanner(System.in);
 		
 		System.out.println("Enter the initial tuition cost (Format XXXX.00).");
